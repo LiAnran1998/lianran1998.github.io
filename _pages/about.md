@@ -29,8 +29,8 @@ If you want to know more about me, here is my [CV](/CV.pdf).
 
 <span class='anchor' id='News'></span>
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉 ADC201 tablets researched by Jiangsu Aidi Chemical Pharmaceuticals R&D Department successfully passed bioequivalence experiments. 
-- *2024.04*: &nbsp;🎉🎉 ADC202 tablets developed by Jiangsu Aidi Chemical Formulation R&D Department successfully completed process scale-up production.
+- *2024.05*: &nbsp;🎉🎉 ADC201 tablets researched by Jiangsu Aidea Chemical Pharmaceuticals R&D Department successfully passed bioequivalence experiments. 
+- *2024.04*: &nbsp;🎉🎉 ADC202 tablets developed by Jiangsu Aidea Chemical Formulation R&D Department successfully completed process scale-up production.
 
 <span class='anchor' id='Publications'></span>
 # 📝 Publications 
@@ -184,7 +184,7 @@ Research on Formulated Granules of Traditional Chinese Medicine [J]. China Yearb
 
 **Building the 4th Generation 3D Printer for Drug Printing with HME Technology**
 
-**Anran li**, Zhijun Wang
+**Anran li**, Zhijun Wang, Ke Zhang
 
 **Project**
 - This HDM technology printer was built for the first time to fulfill the idea of hybrid printing with multiple technologies.
@@ -198,7 +198,7 @@ Research on Formulated Granules of Traditional Chinese Medicine [J]. China Yearb
 
 **Building the 3rd Generation 3D Printer for Drug Printing in SSE Technology**
 
-**Anran li**, Zhijun Wang
+**Anran li**, Zhijun Wang, Ke Zhang
 
 **Project**
 - Designed and built third-generation printers in order to print more materials.
@@ -214,7 +214,7 @@ Research on Formulated Granules of Traditional Chinese Medicine [J]. China Yearb
 
 **Building the 2nd Generation 3D Printer for Drug Printing in FDM Technology**
 
-**Anran li**, Siyuan Liu
+**Anran li**, Siyuan Liu, Ke Zhang
 
 **Project**
 - In order to solve the problem of drug-carrying wire breakage in the first-generation printers, the second-generation printers were constructed.
