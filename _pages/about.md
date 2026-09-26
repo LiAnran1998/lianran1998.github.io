@@ -23,14 +23,14 @@ I graduated from [China Pharmaceutical University](https://www.cpu.edu.cn/)，an
 
 I specialize in drug delivery, innovative drug discovery, 3D printed drugs and other research. 
 
-If you are looking for any kind of academic collaboration, please feel free to email me at lianran.cpu@gmail.com.
+If you are looking for any kind of academic collaboration, please feel free to email me at anranli@stu.cpu.edu.cn.
 
 If you want to know more about me, here is my [CV](/CV.pdf).
 
 <span class='anchor' id='News'></span>
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉 ADC201 tablets researched by Jiangsu Aidea Chemical Pharmaceuticals R&D Department successfully passed bioequivalence experiments. 
-- *2024.04*: &nbsp;🎉🎉 ADC202 tablets developed by Jiangsu Aidea Chemical Formulation R&D Department successfully completed process scale-up production.
+- *2026.09*: &nbsp;🎉🎉 The patent for the formulation process of ACC017 has been successfully granted. 
+- *2025.11*: &nbsp;🎉🎉 Won the Bronze Award in the AI for since category of the 2nd Global Digital Intelligence Education Innovation Competition.
 
 <span class='anchor' id='Publications'></span>
 # 📝 Publications 
@@ -38,7 +38,7 @@ If you want to know more about me, here is my [CV](/CV.pdf).
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GZ Lab 2023</div><img src='images/11.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Hybrid Deposition Modeling Technology for Preparing Rocket-separation 3D-print Tablet with Greater Compliance for the Treatment of Helicobacter Pylori InfectionRecognition (In Submission)
+[Hybrid Deposition Modeling Technology for Preparing Rocket-separation 3D-print Tablet with Greater Compliance for the Treatment of Helicobacter Pylori InfectionRecognition.](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/admt.202400840) 
 
 **paper**:
 - **Anran li**, Ke Zhang, Zhijun Wang, Siyuan Liu, Xiaofei Li, Jianbing Ren, Jianjun Zhang, Yunyi Shi, Yuan Gao, Shuai Qian, Yuanfeng Wei
@@ -133,6 +133,10 @@ Research on Formulated Granules of Traditional Chinese Medicine [J]. China Yearb
 </div>
 <span class='anchor' id='honors'></span>
 # 🎖️ Honors and Awards 
+- *11/2025* Bronze Award, The 2nd Global Digital Intelligence Education Innovation Competition (Peking University) 
+
+- *01/2024* Aidea Pharmaceuticals Special Award: Outstanding R&D Organization
+
 - *10/2021* The First Prize, CPU Scholarship (Top 5%)
 
 - *12/2020* Outstanding Research Poster, Jiangsu Graduate TCM Innovation Forum
